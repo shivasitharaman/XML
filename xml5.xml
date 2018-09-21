@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "xmlxslapply.xsl"?>
+<class>
+<employee id = "001">
+<name>Shiva</name>
+<email>shiva.anandavalli98@gmail.com</email>
+
+<score>80</score>
+</employee>
+<employee id = "024">
+<name>Karthik</name>
+<email>Karthik98@gmail.com</email>
+
+<score>56</score>
+</employee>
+<employee id = "056">
+<name>Rahul</name>
+
+<email>Rahul98@yahoo.com</email>
+<score>96</score>
+</employee>
+</class>

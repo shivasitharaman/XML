@@ -1,0 +1,44 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "student.xsl"?>
+<class>
+<employee id = "001">
+<firstname>Siva</firstname>
+<lastname>Subramanian</lastname>
+<nickname>bharath</nickname>
+<salary>40000</salary>
+</employee>
+<employee id = "024">
+<firstname>Mahesh</firstname>
+<lastname>Karthik</lastname>
+<nickname>Mahi</nickname>
+<salary>35000</salary>
+</employee>
+<employee id = "056">
+<firstname>Daniel</firstname>
+<lastname>pope</lastname>
+<nickname>Dan</nickname>
+<salary>10000</salary>
+</employee>
+</class>
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "student.xsl"?>
+<class>
+<employee id = "001">
+<firstname>Siva</firstname>
+<lastname>Subramanian</lastname>
+<nickname>bharath</nickname>
+<salary>40000</salary>
+</employee>
+<employee id = "024">
+<firstname>Mahesh</firstname>
+<lastname>Karthik</lastname>
+<nickname>Mahi</nickname>
+<salary>35000</salary>
+</employee>
+<employee id = "056">
+<firstname>Daniel</firstname>
+<lastname>pope</lastname>
+<nickname>Dan</nickname>
+<salary>10000</salary>
+</employee>
+</class>

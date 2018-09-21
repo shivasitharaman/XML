@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="abcd.css"?>
+<!DOCTYPE employee SYSTEM "dsa.dtd">
+<employee>
+<heading>LIST OF STUDENTS</heading>
+<br />
+<br><text1>Siva</text1><br/>
+<br><text2>akhil</text2><br/>
+<text3>parthiban</text3>
+<text4>akash</text4>
+
+<heading>SELECTED CANDIDATES</heading>
+<text1>Siva</text1>
+<text2>parthiban</text2>
+</employee>
